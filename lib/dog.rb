@@ -50,7 +50,7 @@ class Dog
     id = row[0]
     name = row[1]
     breed = [2]
-    Dog.new(id, name, breed)
+    Dog.new(name, breed)
   end
 
 end
