@@ -47,7 +47,7 @@ class Dog
   end
 
   def self.new_from_db(row)
-    self.new(row)
+
   end
 
 end
